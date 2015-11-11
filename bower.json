@@ -20,7 +20,6 @@
 		"!examples/js",
 		"src",
 		"test",
-		"utils",
 		"LICENSE"
 	]
 }
